@@ -1,5 +1,5 @@
 # Pretrained_dog_classifier
-My nanodegree project implementing a pre-trained image classifier to identify dog breeds.
+My first nanodegree project implementing a pre-trained image classifier to identify dog breeds.
 
 # Objectives
 1. Correctly identify which pet images are of dogs (even if breed is misclassified) and which pet images aren't of dogs.
